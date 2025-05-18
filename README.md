@@ -14,6 +14,9 @@ The dataset used in this project contains anonymized credit card transaction dat
 - \`Class = 1\` indicates a fraudulent transaction
 - \`Class = 0\` indicates a legitimate transaction
 
+ [Credit Card Fraud Detection – Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+
 ##  Key Steps
 
 ### 1. Data Preprocessing
